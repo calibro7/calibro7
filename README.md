@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @calibro7
-- 👀 I’m interested in Smart Contract Developmend
+- 👀 I’m interested in Blockchain Development
 - 🌱 into Solidity and React
 - 💞️ I’m looking to collaborate on New Blockchain Projects as an intern
 - 📫 Reach me via email @ rkolchev65@gmail.com
