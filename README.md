@@ -37,10 +37,15 @@ const radoslav = {
 Odds are my agents already work for whoever services your car and makes your food.
 
 ```
-Toyota · Mototom
-Agrozastrahovane.bg
-WOW Tea
-Happy Bar & Grill
+clients    Toyota · Mototom
+           MOBILFOX
+           Rezzo
+           Agrozastrahovane.bg
+           WOW Tea
+           Happy Bar & Grill
+
+partners   IZI Media
+           CreateX
 ```
 
 <sub>built solo.</sub>
